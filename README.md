@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  join our community: <a href="https://discord.gg/H3DYmnjz">
-    <img alt="Discord invitation link" src="https://dcbadge.vercel.app/api/server/H3DYmnjz?style=flat" />
-  </a>
+  join our community:     <a href="https://discord.gg/uXkqkz3mJJ">
+      <img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/uXkqkz3mJJ?style=flat" align="center" />
+    </a>
 </p>
