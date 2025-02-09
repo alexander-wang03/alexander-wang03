@@ -13,3 +13,12 @@
       <img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/uXkqkz3mJJ?style=flat" align="center" />
     </a>
 </p>
+
+--- 
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-jd.vercel.app/api/top-langs/?username=alexander-wang03&layout=compact&theme=radical&count_private=true&hide=pascal,php,html&langs_count=8" height="200"></img>
+  <img src="https://streak-stats.demolab.com?user=alexander-wang03&theme=dark&fire=EB5454&card_width=360" height="200"></img>
+
+</div>
