@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  come check us out: <a href="https://github.com/pyrater/TARS-AI">https://github.com/pyrater/TARS-AI</a>
+  come check us out: <a href="https://github.com/TARS-AI-Community/TARS-AI">TARS-AI 🤖</a>
 </p>
 
 <p align="center">
