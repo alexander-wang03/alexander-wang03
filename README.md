@@ -1,6 +1,7 @@
 <img src="banner.png" alt="Alex">
 
 <p align="center">
+  current SWE @SpaceX 🚀 <br/>
   working on self-driving cars, ai, and an open-source TARS from my favourite childhood movie Interstellar.
 </p>
 
