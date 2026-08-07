@@ -22,4 +22,10 @@
   <img src="https://github-readme-stats-jd.vercel.app/api/top-langs/?username=alexander-wang03&layout=compact&theme=radical&count_private=true&hide=pascal,php,html&langs_count=8" height="200"></img>
   <img src="https://streak-stats.demolab.com?user=alexander-wang03&theme=dark&fire=EB5454&card_width=360" height="200"></img>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexander-wang03/alexander-wang03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexander-wang03/alexander-wang03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexander-wang03/alexander-wang03/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
